@@ -20,7 +20,7 @@ Welcome to👋 my Cybersecurity repository!   This repository contains my person
 
 - **OWASP Top 10** - har bir xavfsizlik kamchiliklari uchun ta'riflar, misollar va yechimlar.  
 - **Kali Linux commands** - kundalik pentest jarayonida ishlatiladigan buyruqlar va ularning vazifalari.  
-- **Cryptography scripts** - Python dasturlari bilan klassik shifrlash va shifrlashni buzish.  
+- **Cryptography scripts** - Python dasturlari bilan klassik shifrlash va shifrlashni buzish. https://github.com/zuhrashavkatova/Cryptography 
 - **Networking Concepts** - OSI model va TCP/IP protokollari haqida tushunchalar.  
 
 ---
@@ -39,7 +39,7 @@ Agar savollaringiz yoki fikrlaringiz bo‘lsa, bemalol murojaat qilishingiz mumk
 
 **📧 Email:** zuhraxavfsizlik@gmail.com  
 **💼 LinkedIn:** [linkedin.com/in/zuhra-shavkatova-8210182a6](https://www.linkedin.com/in/zuhra-shavkatova-8210182a6)  
-**💬 Telegram:** [@zuhra_dev](https://t.me/zuhra_dev)
+**💬 Telegram:** [@zuhra](https://t.me/Noor_010101)
 
 ---
 
