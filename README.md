@@ -60,7 +60,7 @@ Stay connected and grow your skills with us! 🛡💻
 
 Agar savollaringiz yoki fikrlaringiz bo‘lsa, bemalol murojaat qilishingiz mumkin:
 
-**📧 Email:** zuhraxavfsizlik@gmail.com  
+**📧 Email:** zuhrashavkatova523@gmail.com  
 **💼 LinkedIn:** [linkedin.com/in/zuhra-shavkatova-8210182a6](https://www.linkedin.com/in/zuhra-shavkatova-8210182a6)  
 **💬 Telegram:** [@zuhra](https://t.me/Noor_010101)
 
