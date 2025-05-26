@@ -19,6 +19,7 @@ Welcome to👋 my Cybersecurity repository!   This repository contains my person
 - 👉 [Cryptography books courses](https://github.com/zuhrashavkatova/Cybersecurity/tree/main/Cryptography/coursera)  
 - **Penetration Testing (Pentest)** — Tarmoq va tizimlarni himoya zaifliklari uchun tekshirish.
 - 👉 [Kali Linux commands | tools | ethical hacking | pen testing](https://github.com/zuhrashavkatova/Cybersecurity/tree/main/Kali%20Linux)
+- 👉 [Real-world practices](https://github.com/zuhrashavkatova/Cybersecurity/tree/main/Real%20Time%20Tasks)
 
 ---
 
